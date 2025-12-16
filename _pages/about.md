@@ -7,11 +7,11 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+86 13540508785</p>
+    <p>Shenzhen Institutes of Advanced Technology</p>
+    <p>Shenzhen, Guangzhou</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Master’s student in Biology and Medicine at Southern University of Science and Technology (SUSTech), where I am fortunate to be advised by [Advisor Name, if applicable]. Prior to this, I received my B.Eng. degree in Software Engineering from Dalian University of Technology (DUT) in 2023, graduating with a major GPA of 3.65/4.0.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie at the intersection of Artificial Intelligence and Neuroscience, with a specific focus on Brain-Computer Interfaces (BCI) and Neural Decoding. I am driven by the goal of bridging the gap between biological and machine intelligence. My solid background in software engineering allows me to efficiently design and implement complex deep learning architectures for high-dimensional brain signal processing.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am working on neuroscience-inspired frameworks for the tri-modality alignment of brain signals, vision, and language. My work aims to solve the "feature-physiological mismatch" in rapid visual decoding by simulating the human visual system's dual-stream mechanism.
+
+I am always open to discussions and collaborations. Please feel free to reach out via email.
