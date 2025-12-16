@@ -1,200 +1,243 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yixing Ke",
+    "label": "M.Sc. Student in Biology and Medicine",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "Yixing_Ke@163.com",
+    "phone": "+86-135-4050-8785",
+    "url": "https://Morningstar-Ke.github.io",
+    "summary": "M.Sc. student in Biology and Medicine with a strong background in software engineering and electronic information, focusing on brain-computer interface (BCI), neural decoding, and multi-modal semantic alignment.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Shenzhen",
+      "countryCode": "CN",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "Morningstar-Ke",
+        "url": "https://github.com/Morningstar-Ke"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Southern University of Science and Technology (SUSTech)",
+      "position": "Graduate Researcher, Brain-Computer Interface (BCI)",
+      "url": "https://www.sustech.edu.cn/",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "summary": "Conducting interdisciplinary research at the intersection of artificial intelligence, brain-computer interface, and neural decoding, with a focus on multi-modal alignment of brain signals, vision, and language.",
+      "highlights": [
+        "Developed tri-modality alignment frameworks for brain signals, vision, and language under the RSVP paradigm.",
+        "Designed spatiotemporal feature fusion decoding networks for high-dimensional EEG signals.",
+        "Applied deep residual networks and attention mechanisms for semantic alignment between brain and visual representations."
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Southern University of Science and Technology (SUSTech)",
+      "location": "Shenzhen, China",
+      "url": "https://www.sustech.edu.cn/",
+      "area": "Biology and Medicine",
+      "studyType": "Master",
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "score": "GPA: 3.74 / 4.0",
+      "courses": ["Artificial Intelligence", "Brain-Computer Interface", "Neural Decoding"]
+    },
+    {
+      "institution": "Dalian University of Technology (DUT)",
+      "location": "Dalian, China",
+      "url": "https://www.dlut.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2019-09-01",
+      "endDate": "2023-06-30",
+      "score": "GPA: 3.65 / 4.0; Core courses average: 95.4",
+      "courses": ["Compiler Principles", "Algorithms", "Data Structures", "Computer Architecture"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Academic Special Scholarship",
+      "date": "2025-01-01",
+      "awarder": "Southern University of Science and Technology",
+      "url": "",
+      "summary": "Awarded for outstanding academic performance during the M.Sc. program in Biology and Medicine."
+    },
+    {
+      "title": "Academic First-Class Scholarship",
+      "date": "2024-01-01",
+      "awarder": "Southern University of Science and Technology",
+      "url": "",
+      "summary": "Recognized for excellent academic achievement in the first year of graduate study."
+    },
+    {
+      "title": "Academic Excellence First-Class Scholarship",
+      "date": "2022-01-01",
+      "awarder": "Dalian University of Technology",
+      "url": "",
+      "summary": "Awarded for top academic performance during undergraduate study."
+    },
+    {
+      "title": "National Third Prize, The 14th National Software Innovation Competition",
+      "date": "2021-09-01",
+      "awarder": "The 14th National Software Innovation Competition",
+      "url": "",
+      "summary": "Recognized for software R&D and algorithm design in an AR-based visual image feature recognition project."
+    },
+    {
+      "title": "Spiritual Civilization Scholarship",
+      "date": "2020-01-01",
+      "awarder": "Dalian University of Technology",
+      "url": "",
+      "summary": "Awarded for comprehensive excellence and contributions to campus culture and student community."
+    },
+    {
+      "title": "DUT Merit Student & Outstanding University League Member",
+      "date": "2022-01-01",
+      "awarder": "Dalian University of Technology",
+      "url": "",
+      "summary": "Recognized for overall academic excellence, leadership, and student engagement."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "CET-6 (College English Test Band 6)",
+      "date": "2021-01-01",
+      "issuer": "Ministry of Education of the People's Republic of China",
+      "url": "",
+      "icon": "fa-solid fa-language"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "CET-4 (College English Test Band 4)",
+      "date": "2020-01-01",
+      "issuer": "Ministry of Education of the People's Republic of China",
+      "url": "",
+      "icon": "fa-solid fa-language"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "A Neuroscience-Inspired Framework for Tri-Modality Alignment of Brain Signals, Vision, and Language",
+      "publisher": "Under review at ICLR 2026",
+      "releaseDate": "",
+      "url": "",
+      "summary": "Addresses the feature-physiological mismatch problem in neural decoding under the RSVP paradigm by proposing a neuroscience-inspired tri-modality alignment framework for brain signals, vision, and language."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Brain-Computer Interface & Neural Decoding",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["EEG/MEG signal processing", "Spatiotemporal feature fusion", "Neural decoding", "Cross-modal alignment", "RSVP paradigm"]
+    },
+    {
+      "name": "Machine Learning & Deep Learning",
+      "level": "",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Contrastive learning",
+        "Multi-head self-attention",
+        "Residual networks (ResNet)",
+        "Representation learning",
+        "Large language models (LLMs)",
+        "Cross-modal retrieval"
       ]
+    },
+    {
+      "name": "Software Engineering & Development",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C/C++", "Java", "HTML", "MATLAB", "Git", "Linux", "Android Studio", "LaTeX"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Fluent (CET-6 498, CET-4 538)",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Brain-Computer Interface & Neural Engineering",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["Neural decoding", "Neuro-inspired computation", "Multi-modal fusion"]
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-microchip",
+      "keywords": ["Deep learning", "Representation learning", "Cross-modal learning"]
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Neural Activity Information Decoding Based on Brain Imaging (CAS Strategic Priority Program)",
+      "summary": "Developed decoding models for visual perception based on high-dimensional spatiotemporal EEG signals within a national strategic priority program.",
+      "highlights": [
+        "Designed a spatiotemporal feature fusion decoding network tailored for EEG signals.",
+        "Built a dual-stream cross-modal decoding architecture for brain-visual alignment.",
+        "Used deep residual networks to extract high-level semantic features from visual images.",
+        "Applied multi-head self-attention to capture millisecond-level temporal dynamics of brain signals.",
+        "Achieved high-precision semantic alignment in latent space via contrastive learning."
+      ],
+      "startDate": "2023-09-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Neuroscience-Inspired Brain-Vision-Language Tri-Modality Alignment Framework (Guangdong Provincial Key Laboratory Project)",
+      "summary": "Constructed a large model-driven tri-modality semantic fusion framework for brain, vision, and language in non-invasive BCI.",
+      "highlights": [
+        "Built a joint embedding space for brain, vision, and language modalities.",
+        "Introduced large language models to generate fine-grained text descriptions as semantic anchors.",
+        "Enforced high-precision alignment of brain signals with visual and linguistic features via cross-modal contrastive learning.",
+        "Proposed a dynamic loss adjustment strategy to balance low-level features and high-level semantics.",
+        "Simulated perception-to-cognition processes inspired by the dual-stream visual system."
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "FPGA Code Rule Checker and Circuit Display Development (National Outsourcing Project)",
+      "summary": "Led an undergraduate sub-project on FPGA code rule checking and circuit visualization for VHDL and Verilog.",
+      "highlights": [
+        "Designed the overall scheme and managed software development and project progress.",
+        "Implemented a code rule checker for VHDL and Verilog.",
+        "Developed DAG-based topological sorting and automatic layout algorithms.",
+        "Realized real-time rendering and visualization of logic circuit diagrams corresponding to violating code segments.",
+        "Addressed the traceability problem from code to circuit in complex logic designs."
+      ],
+      "startDate": "2022-01-01",
+      "endDate": "2023-05-31",
+      "url": ""
+    },
+    {
+      "name": "Visual Image Feature Recognition Algorithm Based on ARCore (14th National Software Innovation Competition)",
+      "summary": "Developed an AR application and visual recognition algorithms for sharing and viewing stories on iconic objects via AR.",
+      "highlights": [
+        "Designed and implemented an AR application for interactive storytelling based on visual features.",
+        "Implemented semantic recognition and positioning of surrounding objects using visual features and GPS information.",
+        "Participated in full-stack software R&D and algorithm design.",
+        "Won National Third Prize in the 14th National Software Innovation Competition."
+      ],
+      "startDate": "2022-05-01",
+      "endDate": "2022-09-30",
+      "url": ""
     }
   ]
 }
