@@ -1,33 +1,50 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Website Lifetime Maintenance Commitment
+date: 2025-12-18 16:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I am committed to maintaining and updating this personal academic website throughout my career. This website serves as a comprehensive record of my research journey, academic achievements, and professional development.
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+## Our Commitment
 
-#### Hipster list
+This website will be **continuously maintained and updated** with:
+
+- **Latest Research Updates:** New publications, projects, and research findings will be regularly added
+- **Academic Progress:** Educational milestones, awards, and professional achievements
+- **Project Showcases:** Detailed descriptions of ongoing and completed research projects
+- **Contact Information:** Always up-to-date ways to reach me for collaboration opportunities
+
+## What This Means for Visitors
+
+Whether you are a potential collaborator, a fellow researcher, or someone interested in my work, you can expect:
+
+- **Reliable Access:** The website will remain accessible and functional
+- **Current Information:** Content will be regularly refreshed to reflect the latest developments
+- **Professional Standards:** High-quality presentation of academic work and achievements
+- **Long-term Availability:** This website is a permanent part of my academic presence
+
+## Regular Updates
+
+I will make every effort to keep this website current with:
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>New publications and preprints</li>
+    <li>Research project updates and milestones</li>
+    <li>Conference presentations and talks</li>
+    <li>Academic awards and recognitions</li>
+    <li>Professional news and announcements</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+> "The best way to predict the future is to create it."
+> —Peter Drucker
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+This website represents not just a snapshot of my current work, but a living document that will grow and evolve alongside my academic career. I invite you to check back regularly for updates and new content.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+If you have any questions, collaboration ideas, or would like to get in touch, please feel free to reach out through the contact information provided on this website.

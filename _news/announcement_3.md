@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Hello and welcome! Thank you for visiting my academic website. :sparkles: :smile:
