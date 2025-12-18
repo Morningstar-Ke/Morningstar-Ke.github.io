@@ -440,18 +440,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-hello-and-welcome-thank-you-for-visiting-my-academic-website-sparkles-smile",
+          title: 'Hello and welcome! Thank you for visiting my academic website. :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-website-updated-personal-resume-research-projects-and-academic-publications-have-been-comprehensively-updated",
+          title: 'Website updated: Personal resume, research projects, and academic publications have been comprehensively updated....',
+          description: "",
+          section: "News",},{id: "news-website-lifetime-maintenance-commitment",
+          title: 'Website Lifetime Maintenance Commitment',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "projects-decoding-neural-activity-information-based-on-brain-imaging",
+            },},{id: "projects-decoding-neural-activity-information-based-on-brain-imaging",
           title: 'Decoding Neural Activity Information Based on Brain Imaging',
           description: "CAS Strategic Priority Research Program - Dual-stream cross-modal decoding architecture for EEG-based visual perception",
           section: "Projects",handler: () => {
