@@ -451,24 +451,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-decoding-neural-activity-information-based-on-brain-imaging",
+          title: 'Decoding Neural Activity Information Based on Brain Imaging',
+          description: "CAS Strategic Priority Research Program - Dual-stream cross-modal decoding architecture for EEG-based visual perception",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-neuroscience-inspired-tri-modality-alignment-framework",
+          title: 'Neuroscience-Inspired Tri-Modality Alignment Framework',
+          description: "Multi-Modal Non-Invasive BCI - Brain-Vision-Language alignment with LLM integration",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-fpga-code-rule-checker-and-circuit-display",
+          title: 'FPGA Code Rule Checker and Circuit Display',
+          description: "National-level outsourced project - VHDL/Verilog code analysis with automated circuit visualization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-arcore-visual-image-feature-recognition",
+          title: 'ARCore Visual Image Feature Recognition',
+          description: "National Software Innovation Contest - AR application with semantic object recognition and positioning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
