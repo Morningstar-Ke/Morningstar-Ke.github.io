@@ -20,19 +20,23 @@ This project focuses on developing advanced decoding methods for neural activity
 ## Key Technical Contributions
 
 ### Architecture Design
+
 Designed and built a **dual-stream cross-modal decoding architecture** to effectively process the complex spatiotemporal patterns inherent in EEG signals. This architecture enables simultaneous processing of brain signals and visual stimuli, facilitating robust cross-modal alignment.
 
 ### Feature Extraction
+
 - **Visual Features:** Utilized **Deep Residual Networks (ResNet)** to extract high-level semantic features from visual images
 - **Temporal Patterns:** Combined ResNet features with **Multi-Head Self-Attention mechanisms** to capture millisecond-level dynamic temporal patterns in brain signals
 - This approach enables the model to understand both spatial visual semantics and temporal neural dynamics
 
 ### Alignment & Generalization
+
 - Achieved **high-precision semantic alignment** between brain and visual features in latent space via **contrastive learning**
 - Addressed multi-subject variability by applying machine learning algorithms based on **multi-source domain generalization** (metric learning)
 - This ensures the model's robustness across different subjects and experimental conditions
 
 ### Hardware Integration
+
 The project integrates signal processing, pattern recognition, and AI algorithms, with the ultimate goal of deployment on **FPGA hardware platforms** for real-time neural decoding applications.
 
 ## Impact

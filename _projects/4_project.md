@@ -19,12 +19,15 @@ This project developed an innovative Augmented Reality (AR) application that ena
 ## Key Contributions
 
 ### AR Application Development
+
 Developed a complete **Augmented Reality (AR) application** using ARCore that:
+
 - Allows users to attach and share stories to physical objects
 - Enables real-time viewing of AR content overlaid on recognized objects
 - Provides an intuitive user interface for content creation and interaction
 
 ### Algorithm Design
+
 Implemented advanced **semantic recognition and positioning algorithms**:
 
 - **Visual Feature Recognition:** Developed algorithms for recognizing objects based on visual image features
@@ -34,6 +37,7 @@ Implemented advanced **semantic recognition and positioning algorithms**:
 ## Technical Approach
 
 The system leverages:
+
 - **ARCore** for AR tracking and rendering
 - **Computer vision** algorithms for feature extraction and matching
 - **GPS integration** for spatial context

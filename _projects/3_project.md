@@ -19,12 +19,15 @@ This project involved developing a comprehensive code rule checker for FPGA hard
 ## Key Contributions
 
 ### Code Rule Checking
+
 Successfully developed a **code rule checker** for VHDL and Verilog that:
+
 - Validates syntax and semantic correctness
 - Detects common coding errors and violations
 - Provides detailed error reports with code locations
 
 ### Circuit Visualization
+
 Implemented an advanced **circuit visualization system** that solves the critical "code-to-circuit" traceability problem:
 
 - **DAG-based Analysis:** Utilized **Directed Acyclic Graph (DAG) topological sorting** to analyze circuit structure
@@ -35,6 +38,7 @@ Implemented an advanced **circuit visualization system** that solves the critica
 ## Technical Highlights
 
 The system combines:
+
 - **Compiler principles** for parsing and analyzing hardware description languages
 - **Graph algorithms** for circuit structure analysis and visualization
 - **Software engineering** practices for robust system design and implementation
