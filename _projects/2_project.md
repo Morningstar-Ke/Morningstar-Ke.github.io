@@ -1,81 +1,51 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Neuroscience-Inspired Tri-Modality Alignment Framework
+description: Multi-Modal Non-Invasive BCI - Brain-Vision-Language alignment with LLM integration
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Project Type:** Guangdong Provincial Key Laboratory Project  
+**Duration:** Jan 2024 – Present  
+**Role:** Core R&D Member  
+**Research Topic:** A Neuroscience-Inspired Framework for Tri-Modality Alignment of Brain Signals, Vision, and Language
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project breaks the limitations of traditional binary (brain-vision) alignment by constructing a joint embedding space for **Brain-Vision-Language** tri-modality alignment. The framework is inspired by neuroscience principles, particularly the dual-stream processing mechanism of the human visual system.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Key Innovations
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Tri-Modality Alignment
+Constructed a **joint embedding space** that simultaneously aligns brain signals, visual images, and language descriptions. This approach enables richer semantic understanding compared to traditional binary alignment methods.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### LLM Integration
+- Innovatively introduced **Large Language Models (LLMs)** to generate fine-grained text descriptions as "semantic anchors"
+- Utilized **BLIP-2** to generate dynamic text descriptions for visual stimuli
+- Enforced high-precision alignment through **cross-modal contrastive learning**
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Neuroscience Inspiration
+- Simulated the **dual-stream processing mechanism** of the human visual system
+- Used **center-surround antagonism** and **fast saliency detection** (mimicking the V1 cortex) to extract edge, brightness, and color features
+- This biologically-inspired approach addresses the "feature-physiological mismatch" problem in neural decoding
 
-{% raw %}
+### Dynamic Semantic Guidance
+Designed a **Dynamic Loss Adjustment** optimization strategy to adaptively balance the weights of low-level features and high-level semantics during training, simulating the brain's dynamic "perception-to-cognition" process.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Research Achievements
 
-{% endraw %}
+### Publication
+**First Author** of the paper: *"A Neuroscience-Inspired Framework for Tri-Modality Alignment of Brain Signals, Vision, and Language"*  
+**Status:** Under Review at **ICLR 2026**
+
+### Performance
+Achieved **State-of-the-Art (SOTA)** performance in 200-class Zero-shot image retrieval tasks on large-scale datasets:
+- **THINGS-EEG2**
+- **THINGS-MEG**
+
+## Impact
+
+This framework represents the first attempt to incorporate language as a semantic bridge in brain-vision alignment, opening new directions for multi-modal neural decoding research.

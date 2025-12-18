@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Decoding Neural Activity Information Based on Brain Imaging
+description: CAS Strategic Priority Research Program - Dual-stream cross-modal decoding architecture for EEG-based visual perception
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Project Type:** Strategic Priority Research Program of the Chinese Academy of Sciences (Category B)  
+**Duration:** Sep 2023 – Present  
+**Role:** Core Member | Lead for Topic 2: "Decoding Methods for Visual Perception based on Brain Imaging"  
+**Institution:** Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project focuses on developing advanced decoding methods for neural activity information using brain imaging techniques, specifically targeting visual perception tasks. As a core member leading Topic 2, I designed and implemented a sophisticated dual-stream cross-modal decoding architecture to address the high-dimensional spatiotemporal characteristics of EEG signals.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Key Technical Contributions
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### Architecture Design
+Designed and built a **dual-stream cross-modal decoding architecture** to effectively process the complex spatiotemporal patterns inherent in EEG signals. This architecture enables simultaneous processing of brain signals and visual stimuli, facilitating robust cross-modal alignment.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Feature Extraction
+- **Visual Features:** Utilized **Deep Residual Networks (ResNet)** to extract high-level semantic features from visual images
+- **Temporal Patterns:** Combined ResNet features with **Multi-Head Self-Attention mechanisms** to capture millisecond-level dynamic temporal patterns in brain signals
+- This approach enables the model to understand both spatial visual semantics and temporal neural dynamics
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+### Alignment & Generalization
+- Achieved **high-precision semantic alignment** between brain and visual features in latent space via **contrastive learning**
+- Addressed multi-subject variability by applying machine learning algorithms based on **multi-source domain generalization** (metric learning)
+- This ensures the model's robustness across different subjects and experimental conditions
 
-{% raw %}
+### Hardware Integration
+The project integrates signal processing, pattern recognition, and AI algorithms, with the ultimate goal of deployment on **FPGA hardware platforms** for real-time neural decoding applications.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Impact
 
-{% endraw %}
+This research contributes to advancing the field of brain-computer interfaces by providing a robust framework for decoding visual perception from brain imaging data, with potential applications in assistive technologies and neural prosthetics.

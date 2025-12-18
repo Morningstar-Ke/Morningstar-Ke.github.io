@@ -1,80 +1,48 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: ARCore Visual Image Feature Recognition
+description: National Software Innovation Contest - AR application with semantic object recognition and positioning
 img:
-importance: 3
+importance: 2
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+**Project Type:** The 14th National Software Innovation Contest  
+**Duration:** May 2022 – Sep 2022  
+**Award:** **National Third Prize**  
+**Role:** Software R&D and Algorithm Design
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+## Overview
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project developed an innovative Augmented Reality (AR) application that enables users to share and view stories on iconic objects through AR technology. The system combines visual image feature recognition with GPS positioning to achieve semantic recognition and positioning of objects in the surrounding environment.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+## Key Contributions
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+### AR Application Development
+Developed a complete **Augmented Reality (AR) application** using ARCore that:
+- Allows users to attach and share stories to physical objects
+- Enables real-time viewing of AR content overlaid on recognized objects
+- Provides an intuitive user interface for content creation and interaction
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+### Algorithm Design
+Implemented advanced **semantic recognition and positioning algorithms**:
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+- **Visual Feature Recognition:** Developed algorithms for recognizing objects based on visual image features
+- **GPS-assisted Positioning:** Integrated GPS positioning as auxiliary information to improve recognition accuracy
+- **Multi-modal Fusion:** Combined visual and location data for robust object identification
 
-{% raw %}
+## Technical Approach
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+The system leverages:
+- **ARCore** for AR tracking and rendering
+- **Computer vision** algorithms for feature extraction and matching
+- **GPS integration** for spatial context
+- **Mobile app development** for cross-platform deployment
 
-{% endraw %}
+## Achievement
+
+**National Third Prize** in The 14th National Software Innovation Contest, recognizing the project's innovation in combining AR technology with semantic understanding of the physical world.
+
+## Impact
+
+This project demonstrates the potential of AR technology for creating location-aware, context-rich digital experiences that bridge the physical and digital worlds, with applications in tourism, education, and social interaction.
